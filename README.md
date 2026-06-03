@@ -17,6 +17,6 @@ Created for learning and showcasing practical Linux admin skills.
 
 ## Project Files
 
-- [RHEL 8 Root Password Reset](./rhel8-root-password-reset.md)
+- [RHEL 8 Root Password Reset](./rhel/rhel8-root-password-reset.md)
 - [Disk Check Script](./disk-check.sh)
 - [Service Status Script](./service-status.sh)
